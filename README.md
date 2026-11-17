@@ -1,4 +1,4 @@
-# Olá, me chamo Phelipe! 👋
+# Olá, me chamo Phelipe! 
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e estou direcionando minha carreira para o desenvolvimento backend com Java.
 
@@ -42,7 +42,7 @@ Atualmente, estou aprofundando meus conhecimentos em **Java, Spring Boot, APIs R
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
-### 🚀 Projeto em desenvolvimento
+### 🚀 Projetos em desenvolvimento
 
 **[PerfumeHub](https://github.com/Phelipe95/perfumehub)**
 
